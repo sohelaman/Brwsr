@@ -1,4 +1,4 @@
-package dev.sohel.browzer
+package dev.sohel.brwsr
 
 import org.junit.Test
 

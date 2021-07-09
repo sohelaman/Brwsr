@@ -1,4 +1,4 @@
-package dev.sohel.browzer
+package dev.sohel.brwsr
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

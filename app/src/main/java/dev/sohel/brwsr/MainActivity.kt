@@ -1,4 +1,4 @@
-package dev.sohel.browzer
+package dev.sohel.brwsr
 
 import android.content.ClipData
 import android.content.ClipboardManager

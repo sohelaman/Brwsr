@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.sohel.browzer">
+    package="dev.sohel.brwsr">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -13,9 +13,9 @@
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.Browzer">
         <activity
-            android:name=".SettingsActivity"
+            android:name="dev.sohel.brwsr.SettingsActivity"
             android:label="@string/title_activity_settings" />
-        <activity android:name=".MainActivity">
+        <activity android:name="dev.sohel.brwsr.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
