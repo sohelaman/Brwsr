@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/general_header">
+
+        <EditTextPreference
+            app:key="home_url"
+            app:title="@string/home_url_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="fullscreen"
+            app:title="@string/fullscreen_title"
+            app:summary="Requires app restart"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/misc_header">
+
+        <SwitchPreferenceCompat
+            app:key="back_button_remembers_history"
+            app:title="@string/back_button_remembers_history_title" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

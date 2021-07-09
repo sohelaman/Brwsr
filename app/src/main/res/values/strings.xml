@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Brwsr</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Menu Titles -->
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_settings">Settings</string>
+    <string name="menu_title_copy_current_url">Copy current URL</string>
+    <string name="menu_title_reload">Reload</string>
+    <string name="menu_title_exit">Exit</string>
+
+    <!-- Preference Titles -->
+    <string name="general_header">General Settings</string>
+    <string name="misc_header">Misc Settings</string>
+
+    <!-- General Preferences -->
+    <string name="repo_url">https://github.com/sohelaman/Brwsr</string>
+    <string name="repo_readme_url">https://github.com/sohelaman/Brwsr/blob/main/README.md</string>
+    <string name="default_home_url">https://google.com/</string>
+    <string name="default_error_url">file:///android_asset/error.html</string>
+    <string name="home_url_title">Home URL</string>
+    <string name="home_url_pref_key">home_url</string>
+    <string name="fullscreen_title">Fullscreen</string>
+    <string name="fullscreen_pref_key">fullscreen</string>
+
+    <!-- Misc Preferences -->
+    <string name="back_button_remembers_history_title">Back button remembers history</string>
+    <string name="back_button_remembers_history_pref_key">back_button_remembers_history</string>
+
+    <!-- Mock Texts -->
+    <string name="mock_text1">Ha, ha, ha! What?</string>
+    <string name="mock_text2">Okay, bye!</string>
+
+</resources>
