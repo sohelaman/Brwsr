@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
-        android:theme="@style/Theme.Browzer">
+        android:theme="@style/Theme.Brwsr">
         <activity
             android:name="dev.sohel.brwsr.SettingsActivity"
             android:label="@string/title_activity_settings" />
